@@ -35,9 +35,9 @@ Command lookup in the current directory and all directories defined in $PATH
 
 Built-in commands:
 
-cd <dir> → change working directory
+cd <dir> - change working directory
 
-leave → exit the shell
+leave - exit the shell
 
 Error handling:
 
@@ -66,9 +66,13 @@ Run:
 
 ## Example Usage:
 shell> ls -l
+
 shell> pwd
+
 shell> cd /home/user
+
 shell> echo "Hello World"
+
 shell> leave
 
 ## 👨‍💻 Author
